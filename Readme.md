@@ -1,0 +1,1 @@
+Hello this is Julie Aranda, this is the assignment of Module 2 named VBA_Challenge 2. Hope you enjoy
